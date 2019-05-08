@@ -10,7 +10,7 @@ all the content is following tutorial in :
 ## How much did I did ?
 
 - [x] [**1.** 簡介](http://askeing.github.io/rust-book/README.html)
-- [ ]  [**2.** 準備](http://askeing.github.io/rust-book/getting-started.html)
+- [x]  [**2.** 準備](http://askeing.github.io/rust-book/getting-started.html)
 - [ ]   [**3.** 教學: 猜數字遊戲](http://askeing.github.io/rust-book/guessing-game.html)
 - [ ]   [**4.** 語法及語意](http://askeing.github.io/rust-book/syntax-and-semantics.html)
 -   - [ ]   [**4.1.** 變數綁定](http://askeing.github.io/rust-book/variable-bindings.html)
