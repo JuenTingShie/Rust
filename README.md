@@ -5,6 +5,7 @@ Here is just my practice of **"Rust"** ,
 all the content is following tutorial in :
 
 > [This Pages](http://askeing.github.io/rust-book/)
+> [<img src="https://raw.githubusercontent.com/JuenTingShie/Rust/master/tutorial%20screenshot.png">](http://askeing.github.io/rust-book/)
 
 ## How much did I did ?
 
