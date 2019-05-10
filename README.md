@@ -7,13 +7,22 @@ all the content is following tutorial in :
 > [This Pages](http://askeing.github.io/rust-book/)
 > [<img src="https://raw.githubusercontent.com/JuenTingShie/Rust/master/tutorial%20screenshot.png">](http://askeing.github.io/rust-book/)
 
+## Platform
+AMD Ryzen 5 2600    
+MSI X370 GAMING PRO CARBON    
+Klevv bolt x 8GB * 2 piece   
+
+Windows10 1809 17763.475    
+WSL(Windows Subsystem for Linux) Ubuntu 18.04.2 LST    
+VScode    
+
 ## How much did I did ?
 
 - [x] [**1.** 簡介](http://askeing.github.io/rust-book/README.html)
 - [x]  [**2.** 準備](http://askeing.github.io/rust-book/getting-started.html)
 - [x]   [**3.** 教學: 猜數字遊戲](http://askeing.github.io/rust-book/guessing-game.html)
 - [ ]   [**4.** 語法及語意](http://askeing.github.io/rust-book/syntax-and-semantics.html)
--   - [x]   [**4.1.** 變數綁定](http://askeing.github.io/rust-book/variable-bindings.html)
+-   - [x]  [**4.1.** 變數綁定](http://askeing.github.io/rust-book/variable-bindings.html)
     - [x]  [**4.2.** 函式](http://askeing.github.io/rust-book/functions.html)
     - [ ]  [**4.3.** 基本型別](http://askeing.github.io/rust-book/primitive-types.html)
     - [ ]  [**4.4.** 註解](http://askeing.github.io/rust-book/comments.html)
