@@ -14,7 +14,7 @@ all the content is following tutorial in :
 - [x]   [**3.** 教學: 猜數字遊戲](http://askeing.github.io/rust-book/guessing-game.html)
 - [ ]   [**4.** 語法及語意](http://askeing.github.io/rust-book/syntax-and-semantics.html)
 -   - [x]   [**4.1.** 變數綁定](http://askeing.github.io/rust-book/variable-bindings.html)
-    - [ ]  [**4.2.** 函式](http://askeing.github.io/rust-book/functions.html)
+    - [x]  [**4.2.** 函式](http://askeing.github.io/rust-book/functions.html)
     - [ ]  [**4.3.** 基本型別](http://askeing.github.io/rust-book/primitive-types.html)
     - [ ]  [**4.4.** 註解](http://askeing.github.io/rust-book/comments.html)
     - [ ]  [**4.5.** if](http://askeing.github.io/rust-book/if.html)
