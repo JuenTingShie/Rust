@@ -1,7 +1,0 @@
-[package]
-name = "Variable"
-version = "0.1.0"
-authors = ["juentingshie"]
-edition = "2018"
-
-[dependencies]
