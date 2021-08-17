@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.trace.extension": true,
+    "rust-analyzer.server.path": "/home/pi/.rustup/toolchains/nightly-armv7-unknown-linux-gnueabihf/bin/rust-analyzer",
+}
